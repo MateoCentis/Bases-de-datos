@@ -1,0 +1,8 @@
+Ejercicio 2. 
+copy tabla from 'path' delimiter ';' csv header.
+La columna reg no sirve. (ver el comando copy para saber como pedirle que parametros), otra opción es copiarte la tabla del csv a una auxiliar y luego
+hacer un insert a la tabla posta.
+
+Ejercicio 4.
+Agregar una tabla que sea histórico de tarjetas por persona.
+	
